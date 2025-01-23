@@ -29,11 +29,11 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
   OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NUMBER: '201095499866',
+  SUDO: '201095499866',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
-  TIME_ZONE: 'Asia/Colombo',
+  TIME_ZONE: 'Africa/Cairo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'QUEEN ELISA',
@@ -46,12 +46,12 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
-  AUTO_SEEN_STATUS: true,
+  AUTO_SEEN_STATUS: false,
   BOT_OFFLINE: false,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: false, // This not working now !
+  ANTI_VIEW_ONES: true, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: true,
